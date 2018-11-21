@@ -1,2 +1,2 @@
 # planfix_1c
-Schet creation out of planfix
+accounts creation out of planfix
